@@ -11,6 +11,6 @@ int main() {
     a = a - b;
 
 
-    printf("Apres echange: a = %d, b = %d\n", a, b);
+    printf("Aprés échange : a = %d, b = %d", a, b);
  return 0;
 }
