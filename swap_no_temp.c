@@ -9,7 +9,7 @@ int main() {
     b = a - b;
     a = a - b;
     
-    printf("Après échange: a = %d, b = %d\n", a, b);
+    printf("Après échange: a = %d, b = %d", a, b);
     return 0;
 }
 // créez un programme qui lit deux entiers et les échanges sans utiliser de variablle
