@@ -8,7 +8,8 @@ int main() {
     a = a + b;
     b = a - b;
     a = a - b;
+    
     printf("Après échange: a = %d, b = %d\n", a, b);
- return 0;
+    return 0;
 }
 // créez un programme qui lit deux entiers et les échanges sans utiliser de variablle
